@@ -1,3 +1,4 @@
+ Compare was built using react javascript
 ## Available Scripts
 
 In the project directory, you can run:
