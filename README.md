@@ -1,4 +1,4 @@
- Compare was built using react javascript, it simply compile 
+ Compare was built using react javascript, it simply compare to written sentences
 ## Available Scripts
 
 In the project directory, you can run:
