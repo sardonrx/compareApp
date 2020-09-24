@@ -1,4 +1,4 @@
- Compare was built using react javascript, it simply compare to written sentences
+ Compare was built using react javascript, it simply compare student submitted thesis or assignment
 ## Available Scripts
 
 In the project directory, you can run:
